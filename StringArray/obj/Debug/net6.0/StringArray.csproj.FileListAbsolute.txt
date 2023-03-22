@@ -1,0 +1,15 @@
+E:\ZUZYA\GB C#\Final\StringArray\bin\Debug\net6.0\StringArray.exe
+E:\ZUZYA\GB C#\Final\StringArray\bin\Debug\net6.0\StringArray.deps.json
+E:\ZUZYA\GB C#\Final\StringArray\bin\Debug\net6.0\StringArray.runtimeconfig.json
+E:\ZUZYA\GB C#\Final\StringArray\bin\Debug\net6.0\StringArray.dll
+E:\ZUZYA\GB C#\Final\StringArray\bin\Debug\net6.0\StringArray.pdb
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\StringArray.csproj.AssemblyReference.cache
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\StringArray.AssemblyInfoInputs.cache
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\StringArray.AssemblyInfo.cs
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\StringArray.csproj.CoreCompileInputs.cache
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\StringArray.dll
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\refint\StringArray.dll
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\StringArray.pdb
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\StringArray.genruntimeconfig.cache
+E:\ZUZYA\GB C#\Final\StringArray\obj\Debug\net6.0\ref\StringArray.dll
