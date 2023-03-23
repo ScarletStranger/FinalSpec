@@ -1,7 +1,4 @@
-﻿string[] initialArray = new string[5] {"Serbia", "-164156", "git.exe", "1651.546", "conundrum"};
-string[] finalArray = new string[initialArray.Length];
-
-void SecondArrayWithIF(string[] initialArray, string[] finalArray)
+﻿void SecondArrayWithIF(string[] initialArray, string[] finalArray)
 {
     int count = 0;
     for (int i = 0; i < initialArray.Length; i++)
@@ -22,6 +19,9 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+string[] initialArray = new string[5] {"Serbia", "xD", "git.exe", ":)", "res"};
+string[] finalArray = new string[initialArray.Length];
 
 SecondArrayWithIF(initialArray, finalArray);
 PrintArray(finalArray);
